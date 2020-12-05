@@ -8,3 +8,5 @@ Solving challenges daily for 100 consecutive
 * [HackerRank] [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)
 ### Day 2
 * [HackerRank] [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)
+### Day 3 
+* [HackerRank] [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
