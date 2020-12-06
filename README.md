@@ -10,3 +10,5 @@ Solving challenges daily for 100 consecutive
 * [HackerRank] [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)
 ### Day 3 
 * [HackerRank] [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
+### Day 4 
+* [HackerRank] [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
