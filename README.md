@@ -14,3 +14,5 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
 ### Day 5 
 * [HackerRank] [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)
+### Day 6 
+* [HackerRank] [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)
