@@ -18,3 +18,5 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)
 ### Day 7
 * [HackerRank] [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)
+### Day 8
+* [HackerRank] [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
