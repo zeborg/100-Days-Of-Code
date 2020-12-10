@@ -21,3 +21,5 @@ Solving challenges daily for 100 consecutive days.
 ### Day 8
 * [HackerRank] [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
 * [HackerRank] [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+### Day 9
+* [HackerRank] [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)
