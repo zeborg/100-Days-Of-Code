@@ -24,3 +24,7 @@ Solving challenges daily for 100 consecutive days.
 ### Day 9
 * [HackerRank] [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)
 * [HackerRank] [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem)
+### Day 10
+* [CodeChef] [Vaccine Production](https://www.codechef.com/DEC20B/problems/VACCINE1)
+* [CodeChef] [Vaccine Distribution](https://www.codechef.com/DEC20B/problems/VACCINE2)
+* [CodeChef] [Even Pair Sum](https://www.codechef.com/DEC20B/problems/EVENPSUM)
