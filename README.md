@@ -28,3 +28,5 @@ Solving challenges daily for 100 consecutive days.
 * [CodeChef] [Vaccine Production](https://www.codechef.com/DEC20B/problems/VACCINE1)
 * [CodeChef] [Vaccine Distribution](https://www.codechef.com/DEC20B/problems/VACCINE2)
 * [CodeChef] [Even Pair Sum](https://www.codechef.com/DEC20B/problems/EVENPSUM)
+### Day 11
+* [HackerRank] [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
