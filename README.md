@@ -30,3 +30,5 @@ Solving challenges daily for 100 consecutive days.
 * [CodeChef] [Even Pair Sum](https://www.codechef.com/DEC20B/problems/EVENPSUM)
 ### Day 11
 * [HackerRank] [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
+### Day 12
+* [HackerRank] [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
