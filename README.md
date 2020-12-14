@@ -35,3 +35,4 @@ Solving challenges daily for 100 consecutive days.
 ### Day 13
 * [CodeChef] [Positive Prefixes](https://www.codechef.com/DEC20B/problems/POSPREFS)
 * [HackerRank] [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+* [HackerRank] [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
