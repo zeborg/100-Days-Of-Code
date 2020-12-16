@@ -38,3 +38,4 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
 ### Day 14
 * [HackerRank] [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)
+* [HackerRank] [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
