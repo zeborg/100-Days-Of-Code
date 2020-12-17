@@ -39,3 +39,5 @@ Solving challenges daily for 100 consecutive days.
 ### Day 14
 * [HackerRank] [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)
 * [HackerRank] [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
+### Day 15
+* [HackerRank] [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
