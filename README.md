@@ -41,3 +41,4 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
 ### Day 15
 * [HackerRank] [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
+* [HackerRank] [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
