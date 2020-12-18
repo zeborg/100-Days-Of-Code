@@ -42,3 +42,5 @@ Solving challenges daily for 100 consecutive days.
 ### Day 15
 * [HackerRank] [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
 * [HackerRank] [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+### Day 16
+* [HackerRank] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
