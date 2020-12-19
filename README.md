@@ -44,3 +44,5 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
 ### Day 16
 * [HackerRank] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
+### Day 17
+* [Codeforces] [Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A)
