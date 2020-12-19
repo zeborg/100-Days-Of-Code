@@ -46,3 +46,4 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
 ### Day 17
 * [Codeforces] [Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A)
+* [CodeChef] [UWCOI21A](https://www.codechef.com/UWCOI21/problems/UWCOI21A)
