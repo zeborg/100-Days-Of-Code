@@ -52,3 +52,5 @@ Solving challenges daily for 100 consecutive days.
 * [e-olymp] [Swap the neighbours](https://www.e-olymp.com/en/problems/7848)
 * [e-olymp] [Invertor](https://www.e-olymp.com/en/problems/2098)
 * [e-olymp] [Divisible Sum Pair](https://www.e-olymp.com/en/problems/8548)
+* [Codeforces] [In-game Chat](https://codeforces.com/contest/1465/problem/A)
+* [Codeforces] [Fair Numbers](https://codeforces.com/contest/1465/problem/B)
