@@ -47,3 +47,8 @@ Solving challenges daily for 100 consecutive days.
 ### Day 17
 * [Codeforces] [Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A)
 * [CodeChef] [UWCOI21A](https://www.codechef.com/UWCOI21/problems/UWCOI21A)
+### Day 18
+* [e-olymp] [Previous and next letter](https://www.e-olymp.com/en/problems/8610)
+* [e-olymp] [Swap the neighbours](https://www.e-olymp.com/en/problems/7848)
+* [e-olymp] [Invertor](https://www.e-olymp.com/en/problems/2098)
+* [e-olymp] [Divisible Sum Pair](https://www.e-olymp.com/en/problems/8548)
