@@ -46,7 +46,7 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
 ### Day 17
 * [Codeforces] [Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A)
-* [CodeChef] [UWCOI21A](https://www.codechef.com/UWCOI21/problems/UWCOI21A)
+* [CodeChef] [Hidden Numbers](https://www.codechef.com/UWCOI21/problems/UWCOI21A)
 ### Day 18
 * [e-olymp] [Previous and next letter](https://www.e-olymp.com/en/problems/8610)
 * [e-olymp] [Swap the neighbours](https://www.e-olymp.com/en/problems/7848)
@@ -54,3 +54,5 @@ Solving challenges daily for 100 consecutive days.
 * [e-olymp] [Divisible Sum Pair](https://www.e-olymp.com/en/problems/8548)
 * [Codeforces] [In-game Chat](https://codeforces.com/contest/1465/problem/A)
 * [Codeforces] [Fair Numbers](https://codeforces.com/contest/1465/problem/B)
+### Day 19
+* [e-olymp] [Reverse a substring](https://www.e-olymp.com/en/contests/18847/problems/201594)
