@@ -56,3 +56,5 @@ Solving challenges daily for 100 consecutive days.
 * [Codeforces] [Fair Numbers](https://codeforces.com/contest/1465/problem/B)
 ### Day 19
 * [e-olymp] [Reverse a substring](https://www.e-olymp.com/en/contests/18847/problems/201594)
+### Day 20
+* [e-olymp] [Password](https://www.e-olymp.com/en/problems/8382)
