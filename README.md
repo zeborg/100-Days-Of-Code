@@ -60,3 +60,5 @@ Solving challenges daily for 100 consecutive days.
 * [e-olymp] [Password](https://www.e-olymp.com/en/problems/8382)
 ### Day 21
 * [e-olymp] [Julius Caesar Cyfer](https://www.e-olymp.com/en/problems/2164)
+### Day 22
+* [e-olymp] [Square string](https://www.e-olymp.com/en/problems/8697)
