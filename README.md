@@ -64,3 +64,6 @@ Solving challenges daily for 100 consecutive days.
 * [e-olymp] [Square string](https://www.e-olymp.com/en/problems/8697)
 ### Day 23
 * [e-olymp] [Indexes of letter](https://www.e-olymp.com/en/contests/18847/problems/201581)
+### Day 24
+* [HackerRank] [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
+* [HackerRank] [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
