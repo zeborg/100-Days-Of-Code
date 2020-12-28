@@ -67,3 +67,5 @@ Solving challenges daily for 100 consecutive days.
 ### Day 24
 * [HackerRank] [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
 * [HackerRank] [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
+### Day 25
+* [HackerRank] [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
