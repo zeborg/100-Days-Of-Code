@@ -73,3 +73,5 @@ Solving challenges daily for 100 consecutive days.
 * [HackerRank] [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
 ### Day 27
 * [e-olymp] [Sort the letters](https://www.e-olymp.com/en/problems/8316)
+### Day 28
+* [e-olymp] [Heron](https://www.e-olymp.com/en/problems/926)
